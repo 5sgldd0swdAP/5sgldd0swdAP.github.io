@@ -1,0 +1,49 @@
+aa<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li a {
+  display: block;
+  width: 60px;
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
+<head>
+<style>
+p {
+  color: red;
+  text-align: center;
+} 
+</style>
+</head>
+<body>
+
+<p>Coaching/Mechanics</p>
+<p>Select & Play Distinct Characters:
+Multiple characters to choose from, customized characters to fit your own personal strategy and get the final victory!</p>
+
+
+<p>Four Survivors: run from the ruthless hunter, cooperate with teammates, decode cipher machines, open the gate and escape</p>
+<p>One Hunter: familiar yourself with all of your killing powers. Be ready to catch and torture your preys. </p>
+<img src="SHALUTIANSHI.png">
+<img src="KENAN.png">
+<img src="DANWAN.png">
+</body>
+</html>
+
+
