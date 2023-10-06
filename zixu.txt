@@ -23,19 +23,7 @@ li a {
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-body {
-  background-color: lightblue;
-}
 
-h1 {
-  color: white;
-  text-align: center;
-}
-
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
 </style>
 </head>
 <body>
@@ -79,8 +67,7 @@ p {
 纵观本场比赛，过程可谓是跌宕起伏，尽管比分差距很大，但是精彩程度可以说是本次COA5里面数一数二的存在。而狼队晋级后，也将和SST展开最终的对决，至于今年全球总决赛冠军将花落谁家，各位可不要错过最终的决战了。
 
 
-
- 作者：ACG次元饭 https://www.bilibili.com/read/cv16422780/?from=search&spm_id_from=333.337.0.0 出处：bilibili</p>
+</p>
 
 
 <img src="linkage.jfif">
